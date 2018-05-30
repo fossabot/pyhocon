@@ -9,6 +9,7 @@ pyhocon
 [![Coverage Status](https://coveralls.io/repos/chimpler/pyhocon/badge.svg)](https://coveralls.io/r/chimpler/pyhocon)
 [![Requirements Status](https://requires.io/github/chimpler/pyhocon/requirements.svg?branch=master)](https://requires.io/github/chimpler/pyhocon/requirements/?branch=master)
 [![Join the chat at https://gitter.im/chimpler/pyhocon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chimpler/pyhocon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraghukumarc%2Fpyhocon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraghukumarc%2Fpyhocon?ref=badge_shield)
 
 HOCON parser for Python
 
@@ -359,3 +360,7 @@ Java properties mapping                                    | :x:
   - Cosmin Basca ([@cosminbasca](https://github.com/cosminbasca))
   - cryptofred ([@cryptofred](https://github.com/cryptofred))
   - Dominik1123 ([@Dominik1123](https://github.com/Dominik1123))
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraghukumarc%2Fpyhocon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraghukumarc%2Fpyhocon?ref=badge_large)
